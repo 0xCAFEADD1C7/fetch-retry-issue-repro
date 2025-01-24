@@ -1,0 +1,13 @@
+{
+  "name": "repro-bug-fetch-retry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "msw": "2.7.0",
+    "vitest": "3.0.4"
+  },
+  "dependencies": {
+    "fetch-retry": "6.0.0"
+  }
+}
