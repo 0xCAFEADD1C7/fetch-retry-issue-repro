@@ -5,5 +5,5 @@ Run the following
 ```sh
 nvm use # you need nvm.
 yarn
-vitest run test.test.ts
+yarn vitest test.test.ts
 ```
